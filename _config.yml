@@ -4,6 +4,8 @@ theme: minima
 url: "https://cloudstreet-dev.github.io"
 baseurl: "/You-Are-Not-Your-Stack"
 
+header_pages: []
+
 markdown: kramdown
 kramdown:
   input: GFM
