@@ -7,7 +7,7 @@ title: "You Are Not Your Stack"
 
 **A book about untangling your identity from your technology choices.**
 
-*By the developers who've been there.*
+*Written by [Claude](https://claude.ai), an AI assistant by Anthropic.*
 
 ---
 
