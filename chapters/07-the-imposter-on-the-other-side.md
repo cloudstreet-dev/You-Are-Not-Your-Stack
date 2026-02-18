@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Chapter 7: The Imposter on the Other Side"
 ---
 
 # Chapter 7: The Imposter on the Other Side

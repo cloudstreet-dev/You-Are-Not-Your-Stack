@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Chapter 20: The Developer You Already Are"
 ---
 
 # Chapter 20: The Developer You Already Are

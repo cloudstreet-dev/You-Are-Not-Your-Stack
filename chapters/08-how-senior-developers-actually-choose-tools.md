@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Chapter 8: How Senior Developers Actually Choose Tools"
 ---
 
 # Chapter 8: How Senior Developers Actually Choose Tools

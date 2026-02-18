@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Chapter 10: Learning Curves and Self-Compassion"
 ---
 
 # Chapter 10: Learning Curves and Self-Compassion

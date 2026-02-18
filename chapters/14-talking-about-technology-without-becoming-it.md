@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Chapter 14: Talking About Technology Without Becoming It"
 ---
 
 # Chapter 14: Talking About Technology Without Becoming It

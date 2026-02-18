@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Chapter 4: Your Stack Is Not a Personality"
 ---
 
 # Chapter 4: Your Stack Is Not a Personality

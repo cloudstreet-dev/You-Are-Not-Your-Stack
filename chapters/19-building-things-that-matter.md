@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Chapter 19: Building Things That Matter"
 ---
 
 # Chapter 19: Building Things That Matter

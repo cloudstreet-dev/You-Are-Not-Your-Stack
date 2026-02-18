@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Chapter 1: The Moment You Became Your Stack"
 ---
 
 # Chapter 1: The Moment You Became Your Stack

@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Chapter 9: The Polyglot Mindset"
 ---
 
 # Chapter 9: The Polyglot Mindset

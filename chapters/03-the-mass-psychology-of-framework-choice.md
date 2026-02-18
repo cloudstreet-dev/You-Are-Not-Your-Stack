@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Chapter 3: The Mass Psychology of Framework Choice"
 ---
 
 # Chapter 3: The Mass Psychology of Framework Choice

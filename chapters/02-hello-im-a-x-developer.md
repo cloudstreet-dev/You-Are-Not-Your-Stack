@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Chapter 2: Hello, I'm a [X] Developer"
 ---
 
 # Chapter 2: Hello, I'm a [X] Developer

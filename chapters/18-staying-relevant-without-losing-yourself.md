@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Chapter 18: Staying Relevant Without Losing Yourself"
 ---
 
 # Chapter 18: Staying Relevant Without Losing Yourself

@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Chapter 17: The Technology Graveyard"
 ---
 
 # Chapter 17: The Technology Graveyard

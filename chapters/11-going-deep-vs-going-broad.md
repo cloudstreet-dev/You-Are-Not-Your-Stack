@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Chapter 11: Going Deep vs. Going Broad"
 ---
 
 # Chapter 11: Going Deep vs. Going Broad

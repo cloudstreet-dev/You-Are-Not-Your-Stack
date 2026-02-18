@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Chapter 12: The Tools That Outlast the Trends"
 ---
 
 # Chapter 12: The Tools That Outlast the Trends

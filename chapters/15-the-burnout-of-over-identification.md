@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Chapter 15: The Burnout of Over-Identification"
 ---
 
 # Chapter 15: The Burnout of Over-Identification

@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Chapter 16: What Software Development Actually Is"
 ---
 
 # Chapter 16: What Software Development Actually Is

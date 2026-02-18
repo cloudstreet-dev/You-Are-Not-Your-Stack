@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Chapter 6: Why Learning a New Language Feels Like Betrayal"
 ---
 
 # Chapter 6: Why Learning a New Language Feels Like Betrayal

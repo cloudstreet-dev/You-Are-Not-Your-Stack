@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Chapter 5: The Tribal Wars"
 ---
 
 # Chapter 5: The Tribal Wars
